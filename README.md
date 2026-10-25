@@ -38,3 +38,7 @@ QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`
 </p>
 
 <br>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@techjiang.github.readme" />
+</p>
