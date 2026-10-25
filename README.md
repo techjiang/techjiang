@@ -54,4 +54,11 @@ QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`
   <img src="https://ghchart.rshah.org/techjiang" />
 </p>
 
+<h3 align="center">✨ 网站+</h3>
+
+<p align="center">
+  <a href="https://eslibrary.asoe.cn/"><b>精华社 · 藏经阁</b></a> - 藏技术菁华，见字节山河
+  <br>
+</p>
+
 ![](assets/Bottom_down.svg)
