@@ -25,6 +25,20 @@ QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`
 
 留言：大家好，我是科技酱，欢迎到[我的网站](https://docs.asoe.cn)看看。欢迎加入我的“[精华社 · 藏经阁](https://eslibrary.asoe.cn/)”新项目❤
 
+### 更多+
+
+我上线的[AstrBot插件](https://cloud.astrbot.app/users/ai)，我上线的浏览器插件；[分析(Edge)](https://microsoftedge.microsoft.com/addons/detail/nffgadmijjbadebdocdfdfciafefflio) 和 [SSH(Edge)](https://microsoftedge.microsoft.com/addons/detail/ssh/kofjghkemhlgiohodieidnhapeapfgbp) ❤
+
+<h3 align="center">✨ 网站+</h3>
+
+<p align="center">
+  <a href="https://eslibrary.asoe.cn/"><b>精华社 · 藏经阁</b></a> - 藏技术菁华，见字节山河
+  <br>
+</p>
+
+<br>
+<br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=techjiang&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff7eb3&icon_color=ff758c&text_color=a0a0b0&ring_color=ff7eb3&rank_icon=github" width="48%" />
   &nbsp;&nbsp;
@@ -54,13 +68,6 @@ QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`
 
 <p align="center">
   <img src="https://ghchart.rshah.org/techjiang" />
-</p>
-
-<h3 align="center">✨ 网站+</h3>
-
-<p align="center">
-  <a href="https://eslibrary.asoe.cn/"><b>精华社 · 藏经阁</b></a> - 藏技术菁华，见字节山河
-  <br>
 </p>
 
 ![](assets/Bottom_down.svg)
