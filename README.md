@@ -19,18 +19,17 @@
 
 QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`
 
-<br>
+组织：[TechnologySauce](https://github.com/TechnologySauce)
 
----
 
-<br>
+
+<h3 align="center">✨ 代表作</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techjiang&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff7eb3&icon_color=ff758c&text_color=a0a0b0&ring_color=ff7eb3&rank_icon=github" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techjiang&layout=compact&theme=tokyonight&hide_border=true&title_color=ff7eb3&text_color=a0a0b0" width="40%" />
+  <a href="https://github.com/techjiang/JinghuaSociety-ScriptureLibrary">
+    <img src="https://img.shields.io/badge/JinghuaSociety_ScriptureLibrary-ff7eb3?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
 <br>
 
 <p align="center">
