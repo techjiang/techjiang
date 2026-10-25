@@ -23,6 +23,8 @@ QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`
 
 组织：[TechnologySauce](https://github.com/TechnologySauce) | [TechsSauce](https://github.com/TechsSauce) | [DDYIT](https://github.com/ddyit)
 
+留言：大家好，我是科技酱，欢迎到[我的网站](https://docs.asoe.cn)看看。欢迎加入我的“[精华社 · 藏经阁](https://eslibrary.asoe.cn/)”新项目❤
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=techjiang&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff7eb3&icon_color=ff758c&text_color=a0a0b0&ring_color=ff7eb3&rank_icon=github" width="48%" />
   &nbsp;&nbsp;
