@@ -1,3 +1,5 @@
+![](assets/Bottom_up.svg)
+
 <br>
 
 <h1 align="center">Hi, I'm 科技酱</h1>
@@ -51,3 +53,5 @@ QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`
 <p align="center">
   <img src="https://ghchart.rshah.org/techjiang" />
 </p>
+
+![](assets/Bottom_down.svg)
