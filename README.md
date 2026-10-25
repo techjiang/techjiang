@@ -42,3 +42,13 @@ QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`
 <p align="center">
   <img src="https://count.getloli.com/get/@techjiang.github.readme" />
 </p>
+
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/techjiang" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" />
+</p>
+
