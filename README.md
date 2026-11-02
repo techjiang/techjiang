@@ -19,7 +19,7 @@
 
 我在写代码、写文档，偶尔做点开源。如果你在找技术博客或者开发者社区，可以去 [科技酱的技术文档](https://docs.asoe.cn) 转转。
 
-QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`
+QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`   |  Discord：[科技酱](https://discord.gg/D6CvkR8d8)
 
 组织：[TechnologySauce](https://github.com/TechnologySauce) | [TechsSauce](https://github.com/TechsSauce) | [DDYIT](https://github.com/ddyit)
 
