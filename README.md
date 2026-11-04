@@ -49,8 +49,12 @@ QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`   |  Discord：[科�
 <h3 align="center">✨ 代表作</h3>
 
 <p align="center">
+  <a href="https://github.com/techjiang/app-Linglong-Clipboard">
+    <img src="https://img.shields.io/badge/玲珑剪切板-ff7eb3?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
   <a href="https://github.com/techjiang/JinghuaSociety-ScriptureLibrary">
-    <img src="https://img.shields.io/badge/JinghuaSociety_ScriptureLibrary-ff7eb3?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/精华社_·_藏经阁-ff7eb3?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 <br>
