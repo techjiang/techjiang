@@ -49,6 +49,10 @@ QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`   |  Discord：[科�
 <h3 align="center">✨ 代表作</h3>
 
 <p align="center">
+  <a href="https://github.com/techjiang/AdminURL">
+    <img src="https://img.shields.io/badge/AdminURL-ff7eb3?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
   <a href="https://github.com/techjiang/app-Linglong-Clipboard">
     <img src="https://img.shields.io/badge/玲珑剪切板-ff7eb3?style=for-the-badge&logo=github&logoColor=white" />
   </a>
