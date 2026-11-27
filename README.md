@@ -81,6 +81,8 @@ QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`   |  Discord：[科�
   </picture>
 </p>
 
+<br>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=techjiang&layout=compact&hide_border=true&bg_color=0d1117&theme=chartreuse-dark" />
@@ -92,8 +94,36 @@ QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`   |  Discord：[科�
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=techjiang&hide_border=true&area=true&theme=github-protanope-dark&bg_color=0d1117" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=techjiang&hide_border=true&area=true&theme=default&bg_color=f6f8fa" alt="activity graph" width="100%" />
+  </picture>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=techjiang&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
+</p>
+
+<br>
+
+<h3 align="center">🐍 贡献贪吃蛇</h3>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techjiang/techjiang/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/techjiang/techjiang/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+  </picture>
+</p>
+
+<br>
+
+<h3 align="center">🏔️ 3D 贡献图</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+    <img src="profile-3d-contrib/profile-season-animate.svg" alt="3d contrib" width="100%" />
   </picture>
 </p>
 
@@ -103,6 +133,7 @@ QQ 交流群：`291974598` ｜ `474819022` ｜ `631167288`   |  Discord：[科�
   <img src="https://count.getloli.com/get/@techjiang.github.readme" />
 </p>
 
+<br>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/techjiang" />
