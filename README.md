@@ -16,8 +16,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/techjiang"><img src="https://img.shields.io/github/followers/techjiang?style=flat-square&logo=github&label=Followers&labelColor=0D1117&color=1F6FEB" alt="GitHub Followers" /></a>
-  <a href="https://www.asoe.cn"><img src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91-www.asoe.cn-ff6e9c?style=flat-square&logo=aboutdotme&logoColor=white&labelColor=0D1117" alt="官网" /></a>
+  <a href="https://www.asoe.cn"><img src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91-www.asoe.cn-ff6e9c?style=flat-square&logoColor=white&labelColor=0D1117" alt="官网" /></a>
   <a href="https://docs.asoe.cn"><img src="https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3-docs.asoe.cn-1257C8?style=flat-square&logo=gitbook&logoColor=white&labelColor=0D1117" alt="技术文档" /></a>
   <a href="https://space.bilibili.com/1768832152"><img src="https://img.shields.io/badge/Bilibili-%E7%A7%91%E6%8A%80%E9%85%B1-FB7299?style=flat-square&logo=bilibili&logoColor=white&labelColor=0D1117" alt="哔哩哔哩" /></a>
   <a href="https://discord.gg/D6CvkR8d8"><img src="https://img.shields.io/badge/Discord-%E7%A7%91%E6%8A%80%E9%85%B1-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord" /></a>
